@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://miscluster01-c6dmx.mongodb.net/test?retryWrites=true"
+}
